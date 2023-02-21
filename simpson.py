@@ -22,7 +22,7 @@ def s1(f, a, b, n):
 
 print("*** Simpson's rule ***")
 a = 1
-b = 200
+b = 10
 n = 100000
 print("cos, a = {0}, b = {1}, n = {2}".format(a, b, n))
 
